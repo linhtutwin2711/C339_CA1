@@ -1,3 +1,4 @@
+# Unit tests for calculate_booking_cost (boundary, range and type checks)
 import pytest
 from src.booking_cost import calculate_booking_cost
 
